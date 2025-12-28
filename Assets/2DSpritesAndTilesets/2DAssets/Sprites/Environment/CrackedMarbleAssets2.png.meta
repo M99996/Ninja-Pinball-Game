@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: 27a5d7422fb47c04ca4d5a0e61cf5e73
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 145
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae1c7c9fe2b5e4d88b149e6cb57cc9
+      internalID: 718346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1798
+        width: 96
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475f8e86bc36fc4eacd63a0da88eff6
+      internalID: -1589826666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1834
+        width: 115
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43bc90f54806944bc48ff276d74839
+      internalID: 211847689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1836
+        width: 91
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd59dd297c8d93469d6eba1b38d975c
+      internalID: -545276364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1953
+        width: 104
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1e540e0449024581a034b88d1480b
+      internalID: 955080618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1873
+        width: 118
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ed006a1499004b98196aa1fe15504
+      internalID: -1006234144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1838
+        width: 448
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41e7affe5201940ae514cd858cd387
+      internalID: -2075879804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1885
+        width: 168
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63388f6ca8175744955a223b22d9887
+      internalID: 592431552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_8
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1895
+        width: 132
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18744046f3bc3e74993f5bc8c2616f0e
+      internalID: -246309541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_9
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1945
+        width: 367
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17268d1fd29b13448a3d34d4dbd7509
+      internalID: 1700005081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1572
+        width: 170
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830cbff827448cd4cba1b21ab277c0c9
+      internalID: 1352444589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1709
+        width: 107
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32649a4764f00b84f9a6969151ca1dbd
+      internalID: 1127686655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1663
+        width: 599
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a04a0ba926e84cb5b127d6abc419b
+      internalID: -44376828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_13
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1633
+        width: 267
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b5eb8051b349048b3ee83294ed97f4
+      internalID: 1835874196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_14
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1635
+        width: 383
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e41c0a3401c7344b9e7549b755c421
+      internalID: 1954722635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1472
+        width: 509
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989f1e64d8994849a86089f5bdd6da4
+      internalID: 67866557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1369
+        width: 102
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0801f6375879db74f9e4378a024c8758
+      internalID: -1034721306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1365
+        width: 103
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7252543dcc7f479ee44ba96c5e0b7
+      internalID: -832924141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1327
+        width: 263
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4419a4752978d284ea0a951a24227d95
+      internalID: -1269924030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_19
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1230
+        width: 372
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ed3a86d16f764fb0eed19c2fd685e
+      internalID: -742917647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_20
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1343
+        width: 135
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d18206e93b9f4b9b744ec6c4df695
+      internalID: -1638865798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_21
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1092
+        width: 170
+        height: 506
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ba5f78e5e6014f8056c590f887d31
+      internalID: -1833310602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_22
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1088
+        width: 172
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bea9f3880f8d647940c63dbc8c7295
+      internalID: 2084965195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1367
+        width: 504
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d1525beb109a43be1c4c4dbd38f7d
+      internalID: -1952613758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1274
+        width: 517
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837c2b1302aa8748917ceb7f3536818
+      internalID: -1469139916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1033
+        width: 328
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07fb9c2e9b76748b838b9e5dabd745
+      internalID: 330453004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_26
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1091
+        width: 172
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7033bb6a73c1d34eaaebf0a7c59c5b9
+      internalID: -486534824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1163
+        width: 408
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1bb0b5a0d4ce428198f2a590782e0
+      internalID: 966916834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_28
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1058
+        width: 148
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2909988209222e4f8614140c08c07e6
+      internalID: -1699073085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_29
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 980
+        width: 252
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf55776791c6514ba8cfd3978546644
+      internalID: 1054369343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1010
+        width: 313
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8d539dd255ae459d4639cc7d3fcf8
+      internalID: 1438260469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1026
+        width: 76
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52bfab81fadb9c42935f7d5c1bfa631
+      internalID: -713943757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_32
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 759
+        width: 144
+        height: 375
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78799c60b77e7ca40a90454775746f9d
+      internalID: 340951639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_33
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 914
+        width: 149
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fcbcde9b6bde40aa87853b81d1042
+      internalID: -2044908363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_34
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 905
+        width: 151
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa81f66e7ce18b54c97788e72e9c77fa
+      internalID: -1773613701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_35
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 904
+        width: 149
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d2c5ac09de0a849be8144ea30fbe40
+      internalID: -1212621204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 811
+        width: 423
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b52a47d5ca3334383d64298c711fb4
+      internalID: 563252254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 638
+        width: 249
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278bcec2746ea9d47946e7ea23ae1e15
+      internalID: 742985236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 634
+        width: 151
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c4a5e0c1409d40af7ee853c903173
+      internalID: 1596867433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_39
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 704
+        width: 151
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db66616ec8f484bba5af881488b4de
+      internalID: -1801840127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_40
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 699
+        width: 151
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9937b9a9ee674144b87f7843c307896
+      internalID: -524635214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_41
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 708
+        width: 153
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5dafad34790bc4f808aa6fd98a77df
+      internalID: -1153386797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 459
+        width: 105
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6071057da244614e9fa093eea2a3b65
+      internalID: 445678039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 57
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb824a46ce28d4da9b457e4c910aa3
+      internalID: 198381963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 434
+        width: 66
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0d5790af0b5640ba96a5a9ec311d9
+      internalID: 194098639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 638
+        width: 158
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a109c92f444e4c8eb7a3d65850536
+      internalID: 169123090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_46
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 717
+        width: 190
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf5a1db4bca4048a2a893f07914133
+      internalID: -39222386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 503
+        width: 171
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016c12a5da84fb4db1a437d92674a5e
+      internalID: 1040262420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_48
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 609
+        width: 193
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a78cf5ab4a2b4da7da9c26ab8c187
+      internalID: 1773643331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_49
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 500
+        width: 150
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b413568610774e85049b33d31f2e1
+      internalID: -1869921920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_50
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 498
+        width: 151
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249dc16f609cbb14a82ede5ec9d264fc
+      internalID: -752422542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_51
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 494
+        width: 151
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4400136e8c2c4797c13d32a95c67b
+      internalID: 959557668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 368
+        width: 322
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0b5198dc859f4e9d89edc508fed3e
+      internalID: 449793213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_53
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 487
+        width: 125
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f5e59497778e4082ece3a3fa4b121
+      internalID: 1829497322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_54
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 487
+        width: 127
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066a9e7c2124c148abe68258da4643a
+      internalID: -754569199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_55
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 489
+        width: 101
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7355c67797509a24b90ebcc3a12872d2
+      internalID: -1760265145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_56
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 490
+        width: 143
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318405a7a39176b42a28b4c798850e34
+      internalID: -241025210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_57
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2
+        width: 483
+        height: 490
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d0860dac29d54da553b9710a71151
+      internalID: -1745105502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca60b03b6360d43bed525447890234
+      internalID: -2013535384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_59
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 364
+        width: 437
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70646ebceeb04ec4b962ed64b0756c4b
+      internalID: 125271465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_60
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 6
+        width: 483
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a6b541e9c33c47a19dcecab1cc0e9
+      internalID: 1224513133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 203
+        width: 363
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db4cb2377815c41a94c53e7af96ac0
+      internalID: 171035973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 236
+        width: 135
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f897cffca7bfb540b5015fb22288a9c
+      internalID: -2089895824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_63
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2
+        width: 268
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe24403ed2c5b459fed2f8557370a0
+      internalID: -317806695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 592
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18fff1082b1b24da783ff4012107bf
+      internalID: -1143023458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 108
+        width: 136
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb788d2fe238604fb8c5cce94b3ce3e
+      internalID: 275457324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedMarbleAssets2_66
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c8f20d6238b747bbbcf19926c950f
+      internalID: 1020698123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrackedMarbleAssets2_42: 445678039
+      CrackedMarbleAssets2_44: 194098639
+      CrackedMarbleAssets2_36: 563252254
+      CrackedMarbleAssets2_7: 592431552
+      CrackedMarbleAssets2_19: -742917647
+      CrackedMarbleAssets2_50: -752422542
+      CrackedMarbleAssets2_59: 125271465
+      CrackedMarbleAssets2_9: 1700005081
+      CrackedMarbleAssets2_23: -1952613758
+      CrackedMarbleAssets2_0: 718346477
+      CrackedMarbleAssets2_6: -2075879804
+      CrackedMarbleAssets2_33: -2044908363
+      CrackedMarbleAssets2_29: 1054369343
+      CrackedMarbleAssets2_31: -713943757
+      CrackedMarbleAssets2_14: 1954722635
+      CrackedMarbleAssets2_20: -1638865798
+      CrackedMarbleAssets2_32: 340951639
+      CrackedMarbleAssets2_51: 959557668
+      CrackedMarbleAssets2_55: -1760265145
+      CrackedMarbleAssets2_25: 330453004
+      CrackedMarbleAssets2_65: 275457324
+      CrackedMarbleAssets2_30: 1438260469
+      CrackedMarbleAssets2_47: 1040262420
+      CrackedMarbleAssets2_5: -1006234144
+      CrackedMarbleAssets2_26: -486534824
+      CrackedMarbleAssets2_49: -1869921920
+      CrackedMarbleAssets2_34: -1773613701
+      CrackedMarbleAssets2_4: 955080618
+      CrackedMarbleAssets2_10: 1352444589
+      CrackedMarbleAssets2_39: -1801840127
+      CrackedMarbleAssets2_17: -832924141
+      CrackedMarbleAssets2_46: -39222386
+      CrackedMarbleAssets2_24: -1469139916
+      CrackedMarbleAssets2_35: -1212621204
+      CrackedMarbleAssets2_52: 449793213
+      CrackedMarbleAssets2_1: -1589826666
+      CrackedMarbleAssets2_38: 1596867433
+      CrackedMarbleAssets2_56: -241025210
+      CrackedMarbleAssets2_63: -317806695
+      CrackedMarbleAssets2_45: 169123090
+      CrackedMarbleAssets2_15: 67866557
+      CrackedMarbleAssets2_53: 1829497322
+      CrackedMarbleAssets2_54: -754569199
+      CrackedMarbleAssets2_58: -2013535384
+      CrackedMarbleAssets2_66: 1020698123
+      CrackedMarbleAssets2_41: -1153386797
+      CrackedMarbleAssets2_40: -524635214
+      CrackedMarbleAssets2_60: 1224513133
+      CrackedMarbleAssets2_11: 1127686655
+      CrackedMarbleAssets2_18: -1269924030
+      CrackedMarbleAssets2_27: 966916834
+      CrackedMarbleAssets2_43: 198381963
+      CrackedMarbleAssets2_57: -1745105502
+      CrackedMarbleAssets2_37: 742985236
+      CrackedMarbleAssets2_22: 2084965195
+      CrackedMarbleAssets2_64: -1143023458
+      CrackedMarbleAssets2_61: 171035973
+      CrackedMarbleAssets2_2: 211847689
+      CrackedMarbleAssets2_62: -2089895824
+      CrackedMarbleAssets2_8: -246309541
+      CrackedMarbleAssets2_3: -545276364
+      CrackedMarbleAssets2_13: 1835874196
+      CrackedMarbleAssets2_21: -1833310602
+      CrackedMarbleAssets2_28: -1699073085
+      CrackedMarbleAssets2_48: 1773643331
+      CrackedMarbleAssets2_12: -44376828
+      CrackedMarbleAssets2_16: -1034721306
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

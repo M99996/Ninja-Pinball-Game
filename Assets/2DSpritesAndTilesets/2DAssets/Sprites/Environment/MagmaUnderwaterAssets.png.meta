@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 74847f68ee3ae904badf8db7e83eff02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1711
+        width: 192
+        height: 307
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00960c31fadbaf041bad649ea579e690
+      internalID: -1792443920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1709
+        width: 126
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd5d8768ec21344a403cfc3f453ad4
+      internalID: 2008407717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1712
+        width: 140
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d622d1e899f745a3e29b79473ac78
+      internalID: -1288070924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1580
+        width: 288
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4f379c809e9d4c8c4ae31dbbab981
+      internalID: -1190837448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1738
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e86abeecfcdd54980eeef92bfc4de5
+      internalID: -37515291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_5
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1665
+        width: 160
+        height: 341
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f54b00753d2c046894f4f7d9b59749
+      internalID: 1079191907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_6
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1663
+        width: 111
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52fcf0fe40b5dc44b72229471b8077e
+      internalID: 887338939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_7
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1658
+        width: 180
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa097194b8f4f294f97b0e4be1f2c087
+      internalID: 1482875036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaUnderwaterAssets_8
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1724
+        width: 183
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792fd9b0b4718ec4481e1b9a10cec515
+      internalID: 574644501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagmaUnderwaterAssets_1: 2008407717
+      MagmaUnderwaterAssets_6: 887338939
+      MagmaUnderwaterAssets_4: -37515291
+      MagmaUnderwaterAssets_0: -1792443920
+      MagmaUnderwaterAssets_2: -1288070924
+      MagmaUnderwaterAssets_5: 1079191907
+      MagmaUnderwaterAssets_3: -1190837448
+      MagmaUnderwaterAssets_7: 1482875036
+      MagmaUnderwaterAssets_8: 574644501
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

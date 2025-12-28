@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 4153bfde670fa884396d335571bd2500
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagmaTrees_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3129
+        width: 506
+        height: 922
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50304d87de9d86448b76f8fa7d151c7
+      internalID: -946770678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_1
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3099
+        width: 517
+        height: 979
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad849f9f88af6342917cfe9246201a1
+      internalID: -956821667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_2
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3110
+        width: 497
+        height: 967
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610958b1f0f39eb4587bd92dcdcd79d3
+      internalID: -1671877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_3
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3127
+        width: 511
+        height: 908
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfaf7383275a3428d600aca1de860c
+      internalID: 1019839124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2102
+        width: 439
+        height: 913
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853ef17c21a4bc4a9d58d4e5fb0bba3
+      internalID: -318412852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2157
+        width: 389
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302042f4a8d73144491225f208543b61
+      internalID: -688890695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_6
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2150
+        width: 433
+        height: 787
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24e87a409ba4440ae8b83ab8a4c78c
+      internalID: 131392654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_7
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2152
+        width: 416
+        height: 789
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47204dc14064d1e40b82395dbb3706ed
+      internalID: 129199915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaTrees_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1122
+        width: 370
+        height: 812
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242338bd6eeea34fb512fcbb5744e2e
+      internalID: 394629928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagmaTrees_6: 131392654
+      MagmaTrees_1: -956821667
+      MagmaTrees_4: -318412852
+      MagmaTrees_8: 394629928
+      MagmaTrees_7: 129199915
+      MagmaTrees_0: -946770678
+      MagmaTrees_2: -1671877084
+      MagmaTrees_5: -688890695
+      MagmaTrees_3: 1019839124
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
